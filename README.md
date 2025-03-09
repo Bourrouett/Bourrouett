@@ -37,12 +37,8 @@
 
 ## :zap: Actividad reciente  
 
-<!--START_SECTION:activity-->  
-<!--END_SECTION:activity-->  
-
+<!--RECENT_ACTIVITY:start-->  
 <!--RECENT_ACTIVITY:last_update-->  
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Bourrouett/Bourrouett)
-<!--RECENT_ACTIVITY:last_update_end-->  
 
 ## :zap: Videos  
 
@@ -53,3 +49,4 @@
 - [Necesito un perfil de Github atractivo como desarrollador de software](https://www.youtube.com/watch?v=7jQQF7Juzg)  
 - [Live: Software Cervezas & Birra; Capítulo 15](https://www.youtube.com/watch?v=ZShy-BeAhKQ)  
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Bourrouett/Bourrouett)
